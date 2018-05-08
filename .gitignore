@@ -1,0 +1,8 @@
+# ignorisi sass-cache folder
+.sass-cache/
+
+# ignorisi css mapiranje
+*.css.map
+
+# ignorisi sve css fajlove
+css/**/*.css
